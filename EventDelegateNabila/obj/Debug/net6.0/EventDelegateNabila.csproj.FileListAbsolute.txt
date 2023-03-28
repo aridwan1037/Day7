@@ -1,0 +1,15 @@
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/bin/Debug/net6.0/EventDelegateNabila
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/bin/Debug/net6.0/EventDelegateNabila.deps.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/bin/Debug/net6.0/EventDelegateNabila.runtimeconfig.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/bin/Debug/net6.0/EventDelegateNabila.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/bin/Debug/net6.0/ref/EventDelegateNabila.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/bin/Debug/net6.0/EventDelegateNabila.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.csproj.AssemblyReference.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.GeneratedMSBuildEditorConfig.editorconfig
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.AssemblyInfoInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.AssemblyInfo.cs
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.csproj.CoreCompileInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/ref/EventDelegateNabila.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateNabila/obj/Debug/net6.0/EventDelegateNabila.genruntimeconfig.cache

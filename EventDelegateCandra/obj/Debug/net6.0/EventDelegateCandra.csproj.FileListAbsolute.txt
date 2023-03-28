@@ -1,0 +1,15 @@
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.csproj.AssemblyReference.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.GeneratedMSBuildEditorConfig.editorconfig
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.AssemblyInfoInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.AssemblyInfo.cs
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.csproj.CoreCompileInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/bin/Debug/net6.0/EventDelegateCandra
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/bin/Debug/net6.0/EventDelegateCandra.deps.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/bin/Debug/net6.0/EventDelegateCandra.runtimeconfig.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/bin/Debug/net6.0/EventDelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/bin/Debug/net6.0/ref/EventDelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/bin/Debug/net6.0/EventDelegateCandra.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/ref/EventDelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/InClass/Day7/EventDelegateCandra/obj/Debug/net6.0/EventDelegateCandra.genruntimeconfig.cache

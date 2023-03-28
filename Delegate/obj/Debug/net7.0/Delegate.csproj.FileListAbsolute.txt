@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\bin\Debug\net7.0\Delegate.exe
+c:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\bin\Debug\net7.0\Delegate.deps.json
+c:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.pdb
+c:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\SeBootcampBatch1\Day7\Delegate\obj\Debug\net7.0\ref\Delegate.dll
