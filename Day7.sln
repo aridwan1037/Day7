@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDelegateNabila", "Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDelegateCandra", "EventDelegateCandra\EventDelegateCandra.csproj", "{30A62B08-1D54-46C9-9456-8AC407FD0B5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.CalculatorApps", "1.CalculatorApps\1.CalculatorApps.csproj", "{30835E04-87A3-4A0A-A972-678C58782539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{30A62B08-1D54-46C9-9456-8AC407FD0B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30A62B08-1D54-46C9-9456-8AC407FD0B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30A62B08-1D54-46C9-9456-8AC407FD0B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30835E04-87A3-4A0A-A972-678C58782539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30835E04-87A3-4A0A-A972-678C58782539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30835E04-87A3-4A0A-A972-678C58782539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30835E04-87A3-4A0A-A972-678C58782539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

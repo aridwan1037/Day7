@@ -1,0 +1,15 @@
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\bin\Debug\net7.0\1.CalculatorApps.exe
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\bin\Debug\net7.0\1.CalculatorApps.deps.json
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\bin\Debug\net7.0\1.CalculatorApps.runtimeconfig.json
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\bin\Debug\net7.0\1.CalculatorApps.dll
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\bin\Debug\net7.0\1.CalculatorApps.pdb
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.csproj.AssemblyReference.cache
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.AssemblyInfoInputs.cache
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.AssemblyInfo.cs
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.csproj.CoreCompileInputs.cache
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.dll
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\refint\1.CalculatorApps.dll
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.pdb
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\1.CalculatorApps.genruntimeconfig.cache
+c:\Users\Mike\Documents\GitHub\Day7\1.CalculatorApps\obj\Debug\net7.0\ref\1.CalculatorApps.dll
